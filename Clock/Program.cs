@@ -4,6 +4,7 @@ public class Program
 {
     public static void Main(string[] args)
     {
+        //need to finish operation.cs from 09 onwards
         bool y = true;
         Operation operation = new Operation();
         Console.WriteLine("Ju lutem jepni oren. (00-23)");
