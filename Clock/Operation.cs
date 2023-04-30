@@ -382,7 +382,7 @@ namespace Clock
                 if (BB == 59)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora9();
                     Minute.min59();
                 }
 
@@ -3296,361 +3296,361 @@ namespace Clock
                 if (BB == 00)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora9();
                     Minute.min0();
                 }
                 if (BB == 01)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora9();
                     Minute.min1();
                 }
                 if (BB == 02)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora9();
                     Minute.min2();
                 }
                 if (BB == 03)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora9();
                     Minute.min3();
                 }
                 if (BB == 04)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora9();
                     Minute.min4();
                 }
                 if (BB == 05)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora9();
                     Minute.min5();
                 }
                 if (BB == 06)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora9();
                     Minute.min6();
                 }
                 if (BB == 07)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora9();
                     Minute.min7();
                 }
                 if (BB == 08)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora9();
                     Minute.min8();
                 }
                 if (BB == 09)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora9();
                     Minute.min9();
                 }
                 if (BB == 10)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora9();
                     Minute.min10();
                 }
                 if (BB == 11)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora9();
                     Minute.min11();
                 }
                 if (BB == 12)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora9();
                     Minute.min12();
                 }
                 if (BB == 13)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora9();
                     Minute.min13();
                 }
                 if (BB == 14)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora9();
                     Minute.min14();
                 }
                 if (BB == 15)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora9();
                     Minute.min15();
                 }
                 if (BB == 16)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora9();
                     Minute.min16();
                 }
                 if (BB == 17)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora9();
                     Minute.min17();
                 }
                 if (BB == 18)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora9();
                     Minute.min18();
                 }
                 if (BB == 19)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora9();
                     Minute.min19();
                 }
                 if (BB == 20)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora9();
                     Minute.min20();
                 }
                 if (BB == 21)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora9();
                     Minute.min21();
                 }
                 if (BB == 22)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora9();
                     Minute.min22();
                 }
                 if (BB == 23)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora9();
                     Minute.min23();
                 }
                 if (BB == 24)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora9();
                     Minute.min24();
                 }
                 if (BB == 25)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora9();
                     Minute.min25();
                 }
                 if (BB == 26)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora9();
                     Minute.min26();
                 }
                 if (BB == 27)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora9();
                     Minute.min27();
                 }
                 if (BB == 28)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora9();
                     Minute.min28();
                 }
                 if (BB == 29)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora9();
                     Minute.min29();
                 }
                 if (BB == 30)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora9();
                     Minute.min30();
                 }
                 if (BB == 31)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora9();
                     Minute.min31();
                 }
                 if (BB == 32)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora9();
                     Minute.min32();
                 }
                 if (BB == 33)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora9();
                     Minute.min33();
                 }
                 if (BB == 34)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora9();
                     Minute.min34();
                 }
                 if (BB == 35)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora9();
                     Minute.min35();
                 }
                 if (BB == 36)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora9();
                     Minute.min36();
                 }
                 if (BB == 37)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora9();
                     Minute.min37();
                 }
                 if (BB == 38)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora9();
                     Minute.min38();
                 }
                 if (BB == 39)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora9();
                     Minute.min39();
                 }
                 if (BB == 40)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora9();
                     Minute.min40();
                 }
                 if (BB == 41)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora9();
                     Minute.min41();
                 }
                 if (BB == 42)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora9();
                     Minute.min42();
                 }
                 if (BB == 43)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora9();
                     Minute.min43();
                 }
                 if (BB == 44)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora9();
                     Minute.min44();
                 }
                 if (BB == 45)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora9();
                     Minute.min45();
                 }
                 if (BB == 46)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora9();
                     Minute.min46();
                 }
                 if (BB == 47)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora9();
                     Minute.min47();
                 }
                 if (BB == 48)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora9();
                     Minute.min48();
                 }
                 if (BB == 49)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora9();
                     Minute.min49();
                 }
                 if (BB == 50)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora9();
                     Minute.min50();
                 }
                 if (BB == 51)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora9();
                     Minute.min51();
                 }
                 if (BB == 52)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora9();
                     Minute.min52();
                 }
                 if (BB == 53)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora9();
                     Minute.min53();
                 }
                 if (BB == 54)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora9();
                     Minute.min54();
                 }
                 if (BB == 55)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora9();
                     Minute.min55();
                 }
                 if (BB == 56)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora9();
                     Minute.min56();
                 }
                 if (BB == 57)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora9();
                     Minute.min57();
                 }
                 if (BB == 58)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora9();
                     Minute.min58();
                 }
                 if (BB == 59)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora9();
                     Minute.min59();
                 }
             }
@@ -3659,361 +3659,361 @@ namespace Clock
                 if (BB == 00)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora10();
                     Minute.min0();
                 }
                 if (BB == 01)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora10();
                     Minute.min1();
                 }
                 if (BB == 02)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora10();
                     Minute.min2();
                 }
                 if (BB == 03)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora10();
                     Minute.min3();
                 }
                 if (BB == 04)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora10();
                     Minute.min4();
                 }
                 if (BB == 05)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora10();
                     Minute.min5();
                 }
                 if (BB == 06)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora10();
                     Minute.min6();
                 }
                 if (BB == 07)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora10();
                     Minute.min7();
                 }
                 if (BB == 08)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora10();
                     Minute.min8();
                 }
                 if (BB == 09)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora10();
                     Minute.min9();
                 }
                 if (BB == 10)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora10();
                     Minute.min10();
                 }
                 if (BB == 11)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora10();
                     Minute.min11();
                 }
                 if (BB == 12)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora10();
                     Minute.min12();
                 }
                 if (BB == 13)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora10();
                     Minute.min13();
                 }
                 if (BB == 14)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora10();
                     Minute.min14();
                 }
                 if (BB == 15)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora10();
                     Minute.min15();
                 }
                 if (BB == 16)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora10();
                     Minute.min16();
                 }
                 if (BB == 17)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora10();
                     Minute.min17();
                 }
                 if (BB == 18)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora10();
                     Minute.min18();
                 }
                 if (BB == 19)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora10();
                     Minute.min19();
                 }
                 if (BB == 20)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora10();
                     Minute.min20();
                 }
                 if (BB == 21)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora10();
                     Minute.min21();
                 }
                 if (BB == 22)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora10();
                     Minute.min22();
                 }
                 if (BB == 23)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora10();
                     Minute.min23();
                 }
                 if (BB == 24)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora10();
                     Minute.min24();
                 }
                 if (BB == 25)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora10();
                     Minute.min25();
                 }
                 if (BB == 26)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora10();
                     Minute.min26();
                 }
                 if (BB == 27)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora10();
                     Minute.min27();
                 }
                 if (BB == 28)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora10();
                     Minute.min28();
                 }
                 if (BB == 29)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora10();
                     Minute.min29();
                 }
                 if (BB == 30)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora10();
                     Minute.min30();
                 }
                 if (BB == 31)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora10();
                     Minute.min31();
                 }
                 if (BB == 32)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora10();
                     Minute.min32();
                 }
                 if (BB == 33)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora10();
                     Minute.min33();
                 }
                 if (BB == 34)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora10();
                     Minute.min34();
                 }
                 if (BB == 35)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora10();
                     Minute.min35();
                 }
                 if (BB == 36)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora10();
                     Minute.min36();
                 }
                 if (BB == 37)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora10();
                     Minute.min37();
                 }
                 if (BB == 38)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora10();
                     Minute.min38();
                 }
                 if (BB == 39)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora10();
                     Minute.min39();
                 }
                 if (BB == 40)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora10();
                     Minute.min40();
                 }
                 if (BB == 41)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora10();
                     Minute.min41();
                 }
                 if (BB == 42)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora10();
                     Minute.min42();
                 }
                 if (BB == 43)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora10();
                     Minute.min43();
                 }
                 if (BB == 44)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora10();
                     Minute.min44();
                 }
                 if (BB == 45)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora10();
                     Minute.min45();
                 }
                 if (BB == 46)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora10();
                     Minute.min46();
                 }
                 if (BB == 47)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora10();
                     Minute.min47();
                 }
                 if (BB == 48)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora10();
                     Minute.min48();
                 }
                 if (BB == 49)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora10();
                     Minute.min49();
                 }
                 if (BB == 50)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora10();
                     Minute.min50();
                 }
                 if (BB == 51)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora10();
                     Minute.min51();
                 }
                 if (BB == 52)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora10();
                     Minute.min52();
                 }
                 if (BB == 53)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora10();
                     Minute.min53();
                 }
                 if (BB == 54)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora10();
                     Minute.min54();
                 }
                 if (BB == 55)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora10();
                     Minute.min55();
                 }
                 if (BB == 56)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora10();
                     Minute.min56();
                 }
                 if (BB == 57)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora10();
                     Minute.min57();
                 }
                 if (BB == 58)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora10();
                     Minute.min58();
                 }
                 if (BB == 59)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora10();
                     Minute.min59();
                 }
             }
@@ -4022,361 +4022,361 @@ namespace Clock
                 if (BB == 00)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora11();
                     Minute.min0();
                 }
                 if (BB == 01)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora11();
                     Minute.min1();
                 }
                 if (BB == 02)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora11();
                     Minute.min2();
                 }
                 if (BB == 03)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora11();
                     Minute.min3();
                 }
                 if (BB == 04)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora11();
                     Minute.min4();
                 }
                 if (BB == 05)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora11();
                     Minute.min5();
                 }
                 if (BB == 06)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora11();
                     Minute.min6();
                 }
                 if (BB == 07)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora11();
                     Minute.min7();
                 }
                 if (BB == 08)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora11();
                     Minute.min8();
                 }
                 if (BB == 09)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora11();
                     Minute.min9();
                 }
                 if (BB == 10)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora11();
                     Minute.min10();
                 }
                 if (BB == 11)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora11();
                     Minute.min11();
                 }
                 if (BB == 12)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora11();
                     Minute.min12();
                 }
                 if (BB == 13)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora11();
                     Minute.min13();
                 }
                 if (BB == 14)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora11();
                     Minute.min14();
                 }
                 if (BB == 15)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora11();
                     Minute.min15();
                 }
                 if (BB == 16)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora11();
                     Minute.min16();
                 }
                 if (BB == 17)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora11();
                     Minute.min17();
                 }
                 if (BB == 18)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora11();
                     Minute.min18();
                 }
                 if (BB == 19)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora11();
                     Minute.min19();
                 }
                 if (BB == 20)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora11();
                     Minute.min20();
                 }
                 if (BB == 21)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora11();
                     Minute.min21();
                 }
                 if (BB == 22)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora11();
                     Minute.min22();
                 }
                 if (BB == 23)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora11();
                     Minute.min23();
                 }
                 if (BB == 24)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora11();
                     Minute.min24();
                 }
                 if (BB == 25)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora11();
                     Minute.min25();
                 }
                 if (BB == 26)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora11();
                     Minute.min26();
                 }
                 if (BB == 27)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora11();
                     Minute.min27();
                 }
                 if (BB == 28)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora11();
                     Minute.min28();
                 }
                 if (BB == 29)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora11();
                     Minute.min29();
                 }
                 if (BB == 30)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora11();
                     Minute.min30();
                 }
                 if (BB == 31)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora11();
                     Minute.min31();
                 }
                 if (BB == 32)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora11();
                     Minute.min32();
                 }
                 if (BB == 33)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora11();
                     Minute.min33();
                 }
                 if (BB == 34)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora11();
                     Minute.min34();
                 }
                 if (BB == 35)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora11();
                     Minute.min35();
                 }
                 if (BB == 36)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora11();
                     Minute.min36();
                 }
                 if (BB == 37)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora11();
                     Minute.min37();
                 }
                 if (BB == 38)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora11();
                     Minute.min38();
                 }
                 if (BB == 39)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora11();
                     Minute.min39();
                 }
                 if (BB == 40)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora11();
                     Minute.min40();
                 }
                 if (BB == 41)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora11();
                     Minute.min41();
                 }
                 if (BB == 42)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora11();
                     Minute.min42();
                 }
                 if (BB == 43)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora11();
                     Minute.min43();
                 }
                 if (BB == 44)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora11();
                     Minute.min44();
                 }
                 if (BB == 45)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora11();
                     Minute.min45();
                 }
                 if (BB == 46)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora11();
                     Minute.min46();
                 }
                 if (BB == 47)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora11();
                     Minute.min47();
                 }
                 if (BB == 48)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora11();
                     Minute.min48();
                 }
                 if (BB == 49)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora11();
                     Minute.min49();
                 }
                 if (BB == 50)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora11();
                     Minute.min50();
                 }
                 if (BB == 51)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora11();
                     Minute.min51();
                 }
                 if (BB == 52)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora11();
                     Minute.min52();
                 }
                 if (BB == 53)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora11();
                     Minute.min53();
                 }
                 if (BB == 54)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora11();
                     Minute.min54();
                 }
                 if (BB == 55)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora11();
                     Minute.min55();
                 }
                 if (BB == 56)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora11();
                     Minute.min56();
                 }
                 if (BB == 57)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora11();
                     Minute.min57();
                 }
                 if (BB == 58)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora11();
                     Minute.min58();
                 }
                 if (BB == 59)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora11();
                     Minute.min59();
                 }
             }
@@ -4385,361 +4385,361 @@ namespace Clock
                 if (BB == 00)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora12();
                     Minute.min0();
                 }
                 if (BB == 01)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora12();
                     Minute.min1();
                 }
                 if (BB == 02)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora12();
                     Minute.min2();
                 }
                 if (BB == 03)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora12();
                     Minute.min3();
                 }
                 if (BB == 04)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora12();
                     Minute.min4();
                 }
                 if (BB == 05)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora12();
                     Minute.min5();
                 }
                 if (BB == 06)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora12();
                     Minute.min6();
                 }
                 if (BB == 07)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora12();
                     Minute.min7();
                 }
                 if (BB == 08)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora12();
                     Minute.min8();
                 }
                 if (BB == 09)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora12();
                     Minute.min9();
                 }
                 if (BB == 10)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora12();
                     Minute.min10();
                 }
                 if (BB == 11)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora12();
                     Minute.min11();
                 }
                 if (BB == 12)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora12();
                     Minute.min12();
                 }
                 if (BB == 13)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora12();
                     Minute.min13();
                 }
                 if (BB == 14)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora12();
                     Minute.min14();
                 }
                 if (BB == 15)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora12();
                     Minute.min15();
                 }
                 if (BB == 16)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora12();
                     Minute.min16();
                 }
                 if (BB == 17)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora12();
                     Minute.min17();
                 }
                 if (BB == 18)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora12();
                     Minute.min18();
                 }
                 if (BB == 19)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora12();
                     Minute.min19();
                 }
                 if (BB == 20)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora12();
                     Minute.min20();
                 }
                 if (BB == 21)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora12();
                     Minute.min21();
                 }
                 if (BB == 22)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora12();
                     Minute.min22();
                 }
                 if (BB == 23)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora12();
                     Minute.min23();
                 }
                 if (BB == 24)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora12();
                     Minute.min24();
                 }
                 if (BB == 25)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora12();
                     Minute.min25();
                 }
                 if (BB == 26)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora12();
                     Minute.min26();
                 }
                 if (BB == 27)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora12();
                     Minute.min27();
                 }
                 if (BB == 28)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora12();
                     Minute.min28();
                 }
                 if (BB == 29)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora12();
                     Minute.min29();
                 }
                 if (BB == 30)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora12();
                     Minute.min30();
                 }
                 if (BB == 31)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora12();
                     Minute.min31();
                 }
                 if (BB == 32)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora12();
                     Minute.min32();
                 }
                 if (BB == 33)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora12();
                     Minute.min33();
                 }
                 if (BB == 34)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora12();
                     Minute.min34();
                 }
                 if (BB == 35)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora12();
                     Minute.min35();
                 }
                 if (BB == 36)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora12();
                     Minute.min36();
                 }
                 if (BB == 37)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora12();
                     Minute.min37();
                 }
                 if (BB == 38)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora12();
                     Minute.min38();
                 }
                 if (BB == 39)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora12();
                     Minute.min39();
                 }
                 if (BB == 40)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora12();
                     Minute.min40();
                 }
                 if (BB == 41)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora12();
                     Minute.min41();
                 }
                 if (BB == 42)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora12();
                     Minute.min42();
                 }
                 if (BB == 43)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora12();
                     Minute.min43();
                 }
                 if (BB == 44)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora12();
                     Minute.min44();
                 }
                 if (BB == 45)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora12();
                     Minute.min45();
                 }
                 if (BB == 46)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora12();
                     Minute.min46();
                 }
                 if (BB == 47)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora12();
                     Minute.min47();
                 }
                 if (BB == 48)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora12();
                     Minute.min48();
                 }
                 if (BB == 49)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora12();
                     Minute.min49();
                 }
                 if (BB == 50)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora12();
                     Minute.min50();
                 }
                 if (BB == 51)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora12();
                     Minute.min51();
                 }
                 if (BB == 52)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora12();
                     Minute.min52();
                 }
                 if (BB == 53)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora12();
                     Minute.min53();
                 }
                 if (BB == 54)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora12();
                     Minute.min54();
                 }
                 if (BB == 55)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora12();
                     Minute.min55();
                 }
                 if (BB == 56)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora12();
                     Minute.min56();
                 }
                 if (BB == 57)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora12();
                     Minute.min57();
                 }
                 if (BB == 58)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora12();
                     Minute.min58();
                 }
                 if (BB == 59)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora12();
                     Minute.min59();
                 }
             }
@@ -4748,361 +4748,361 @@ namespace Clock
                 if (BB == 00)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora13();
                     Minute.min0();
                 }
                 if (BB == 01)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora13();
                     Minute.min1();
                 }
                 if (BB == 02)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora13();
                     Minute.min2();
                 }
                 if (BB == 03)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora13();
                     Minute.min3();
                 }
                 if (BB == 04)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora13();
                     Minute.min4();
                 }
                 if (BB == 05)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora13();
                     Minute.min5();
                 }
                 if (BB == 06)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora13();
                     Minute.min6();
                 }
                 if (BB == 07)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora13();
                     Minute.min7();
                 }
                 if (BB == 08)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora13();
                     Minute.min8();
                 }
                 if (BB == 09)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora13();
                     Minute.min9();
                 }
                 if (BB == 10)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora13();
                     Minute.min10();
                 }
                 if (BB == 11)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora13();
                     Minute.min11();
                 }
                 if (BB == 12)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora13();
                     Minute.min12();
                 }
                 if (BB == 13)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora13();
                     Minute.min13();
                 }
                 if (BB == 14)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora13();
                     Minute.min14();
                 }
                 if (BB == 15)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora13();
                     Minute.min15();
                 }
                 if (BB == 16)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora13();
                     Minute.min16();
                 }
                 if (BB == 17)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora13();
                     Minute.min17();
                 }
                 if (BB == 18)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora13();
                     Minute.min18();
                 }
                 if (BB == 19)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora13();
                     Minute.min19();
                 }
                 if (BB == 20)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora13();
                     Minute.min20();
                 }
                 if (BB == 21)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora13();
                     Minute.min21();
                 }
                 if (BB == 22)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora13();
                     Minute.min22();
                 }
                 if (BB == 23)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora13();
                     Minute.min23();
                 }
                 if (BB == 24)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora13();
                     Minute.min24();
                 }
                 if (BB == 25)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora13();
                     Minute.min25();
                 }
                 if (BB == 26)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora13();
                     Minute.min26();
                 }
                 if (BB == 27)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora13();
                     Minute.min27();
                 }
                 if (BB == 28)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora13();
                     Minute.min28();
                 }
                 if (BB == 29)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora13();
                     Minute.min29();
                 }
                 if (BB == 30)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora13();
                     Minute.min30();
                 }
                 if (BB == 31)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora13();
                     Minute.min31();
                 }
                 if (BB == 32)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora13();
                     Minute.min32();
                 }
                 if (BB == 33)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora13();
                     Minute.min33();
                 }
                 if (BB == 34)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora13();
                     Minute.min34();
                 }
                 if (BB == 35)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora13();
                     Minute.min35();
                 }
                 if (BB == 36)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora13();
                     Minute.min36();
                 }
                 if (BB == 37)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora13();
                     Minute.min37();
                 }
                 if (BB == 38)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora13();
                     Minute.min38();
                 }
                 if (BB == 39)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora13();
                     Minute.min39();
                 }
                 if (BB == 40)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora13();
                     Minute.min40();
                 }
                 if (BB == 41)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora13();
                     Minute.min41();
                 }
                 if (BB == 42)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora13();
                     Minute.min42();
                 }
                 if (BB == 43)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora13();
                     Minute.min43();
                 }
                 if (BB == 44)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora13();
                     Minute.min44();
                 }
                 if (BB == 45)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora13();
                     Minute.min45();
                 }
                 if (BB == 46)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora13();
                     Minute.min46();
                 }
                 if (BB == 47)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora13();
                     Minute.min47();
                 }
                 if (BB == 48)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora13();
                     Minute.min48();
                 }
                 if (BB == 49)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora13();
                     Minute.min49();
                 }
                 if (BB == 50)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora13();
                     Minute.min50();
                 }
                 if (BB == 51)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora13();
                     Minute.min51();
                 }
                 if (BB == 52)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora13();
                     Minute.min52();
                 }
                 if (BB == 53)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora13();
                     Minute.min53();
                 }
                 if (BB == 54)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora13();
                     Minute.min54();
                 }
                 if (BB == 55)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora13();
                     Minute.min55();
                 }
                 if (BB == 56)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora13();
                     Minute.min56();
                 }
                 if (BB == 57)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora13();
                     Minute.min57();
                 }
                 if (BB == 58)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora13();
                     Minute.min58();
                 }
                 if (BB == 59)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora13();
                     Minute.min59();
                 }
             }
@@ -5111,361 +5111,361 @@ namespace Clock
                 if (BB == 00)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora14();
                     Minute.min0();
                 }
                 if (BB == 01)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora14();
                     Minute.min1();
                 }
                 if (BB == 02)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora14();
                     Minute.min2();
                 }
                 if (BB == 03)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora14();
                     Minute.min3();
                 }
                 if (BB == 04)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora14();
                     Minute.min4();
                 }
                 if (BB == 05)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora14();
                     Minute.min5();
                 }
                 if (BB == 06)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora14();
                     Minute.min6();
                 }
                 if (BB == 07)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora14();
                     Minute.min7();
                 }
                 if (BB == 08)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora14();
                     Minute.min8();
                 }
                 if (BB == 09)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora14();
                     Minute.min9();
                 }
                 if (BB == 10)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora14();
                     Minute.min10();
                 }
                 if (BB == 11)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora14();
                     Minute.min11();
                 }
                 if (BB == 12)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora14();
                     Minute.min12();
                 }
                 if (BB == 13)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora14();
                     Minute.min13();
                 }
                 if (BB == 14)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora14();
                     Minute.min14();
                 }
                 if (BB == 15)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora14();
                     Minute.min15();
                 }
                 if (BB == 16)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora14();
                     Minute.min16();
                 }
                 if (BB == 17)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora14();
                     Minute.min17();
                 }
                 if (BB == 18)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora14();
                     Minute.min18();
                 }
                 if (BB == 19)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora14();
                     Minute.min19();
                 }
                 if (BB == 20)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora14();
                     Minute.min20();
                 }
                 if (BB == 21)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora14();
                     Minute.min21();
                 }
                 if (BB == 22)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora14();
                     Minute.min22();
                 }
                 if (BB == 23)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora14();
                     Minute.min23();
                 }
                 if (BB == 24)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora14();
                     Minute.min24();
                 }
                 if (BB == 25)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora14();
                     Minute.min25();
                 }
                 if (BB == 26)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora14();
                     Minute.min26();
                 }
                 if (BB == 27)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora14();
                     Minute.min27();
                 }
                 if (BB == 28)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora14();
                     Minute.min28();
                 }
                 if (BB == 29)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora14();
                     Minute.min29();
                 }
                 if (BB == 30)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora14();
                     Minute.min30();
                 }
                 if (BB == 31)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora14();
                     Minute.min31();
                 }
                 if (BB == 32)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora14();
                     Minute.min32();
                 }
                 if (BB == 33)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora14();
                     Minute.min33();
                 }
                 if (BB == 34)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora14();
                     Minute.min34();
                 }
                 if (BB == 35)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora14();
                     Minute.min35();
                 }
                 if (BB == 36)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora14();
                     Minute.min36();
                 }
                 if (BB == 37)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora14();
                     Minute.min37();
                 }
                 if (BB == 38)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora14();
                     Minute.min38();
                 }
                 if (BB == 39)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora14();
                     Minute.min39();
                 }
                 if (BB == 40)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora14();
                     Minute.min40();
                 }
                 if (BB == 41)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora14();
                     Minute.min41();
                 }
                 if (BB == 42)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora14();
                     Minute.min42();
                 }
                 if (BB == 43)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora14();
                     Minute.min43();
                 }
                 if (BB == 44)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora14();
                     Minute.min44();
                 }
                 if (BB == 45)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora14();
                     Minute.min45();
                 }
                 if (BB == 46)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora14();
                     Minute.min46();
                 }
                 if (BB == 47)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora14();
                     Minute.min47();
                 }
                 if (BB == 48)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora14();
                     Minute.min48();
                 }
                 if (BB == 49)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora14();
                     Minute.min49();
                 }
                 if (BB == 50)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora14();
                     Minute.min50();
                 }
                 if (BB == 51)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora14();
                     Minute.min51();
                 }
                 if (BB == 52)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora14();
                     Minute.min52();
                 }
                 if (BB == 53)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora14();
                     Minute.min53();
                 }
                 if (BB == 54)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora14();
                     Minute.min54();
                 }
                 if (BB == 55)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora14();
                     Minute.min55();
                 }
                 if (BB == 56)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora14();
                     Minute.min56();
                 }
                 if (BB == 57)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora14();
                     Minute.min57();
                 }
                 if (BB == 58)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora14();
                     Minute.min58();
                 }
                 if (BB == 59)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora14();
                     Minute.min59();
                 }
             }
@@ -5474,361 +5474,361 @@ namespace Clock
                 if (BB == 00)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora15();
                     Minute.min0();
                 }
                 if (BB == 01)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora15();
                     Minute.min1();
                 }
                 if (BB == 02)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora15();
                     Minute.min2();
                 }
                 if (BB == 03)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora15();
                     Minute.min3();
                 }
                 if (BB == 04)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora15();
                     Minute.min4();
                 }
                 if (BB == 05)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora15();
                     Minute.min5();
                 }
                 if (BB == 06)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora15();
                     Minute.min6();
                 }
                 if (BB == 07)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora15();
                     Minute.min7();
                 }
                 if (BB == 08)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora15();
                     Minute.min8();
                 }
                 if (BB == 09)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora15();
                     Minute.min9();
                 }
                 if (BB == 10)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora15();
                     Minute.min10();
                 }
                 if (BB == 11)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora15();
                     Minute.min11();
                 }
                 if (BB == 12)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora15();
                     Minute.min12();
                 }
                 if (BB == 13)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora15();
                     Minute.min13();
                 }
                 if (BB == 14)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora15();
                     Minute.min14();
                 }
                 if (BB == 15)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora15();
                     Minute.min15();
                 }
                 if (BB == 16)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora15();
                     Minute.min16();
                 }
                 if (BB == 17)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora15();
                     Minute.min17();
                 }
                 if (BB == 18)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora15();
                     Minute.min18();
                 }
                 if (BB == 19)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora15();
                     Minute.min19();
                 }
                 if (BB == 20)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora15();
                     Minute.min20();
                 }
                 if (BB == 21)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora15();
                     Minute.min21();
                 }
                 if (BB == 22)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora15();
                     Minute.min22();
                 }
                 if (BB == 23)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora15();
                     Minute.min23();
                 }
                 if (BB == 24)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora15();
                     Minute.min24();
                 }
                 if (BB == 25)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora15();
                     Minute.min25();
                 }
                 if (BB == 26)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora15();
                     Minute.min26();
                 }
                 if (BB == 27)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora15();
                     Minute.min27();
                 }
                 if (BB == 28)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora15();
                     Minute.min28();
                 }
                 if (BB == 29)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora15();
                     Minute.min29();
                 }
                 if (BB == 30)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora15();
                     Minute.min30();
                 }
                 if (BB == 31)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora15();
                     Minute.min31();
                 }
                 if (BB == 32)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora15();
                     Minute.min32();
                 }
                 if (BB == 33)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora15();
                     Minute.min33();
                 }
                 if (BB == 34)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora15();
                     Minute.min34();
                 }
                 if (BB == 35)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora15();
                     Minute.min35();
                 }
                 if (BB == 36)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora15();
                     Minute.min36();
                 }
                 if (BB == 37)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora15();
                     Minute.min37();
                 }
                 if (BB == 38)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora15();
                     Minute.min38();
                 }
                 if (BB == 39)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora15();
                     Minute.min39();
                 }
                 if (BB == 40)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora15();
                     Minute.min40();
                 }
                 if (BB == 41)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora15();
                     Minute.min41();
                 }
                 if (BB == 42)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora15();
                     Minute.min42();
                 }
                 if (BB == 43)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora15();
                     Minute.min43();
                 }
                 if (BB == 44)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora15();
                     Minute.min44();
                 }
                 if (BB == 45)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora15();
                     Minute.min45();
                 }
                 if (BB == 46)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora15();
                     Minute.min46();
                 }
                 if (BB == 47)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora15();
                     Minute.min47();
                 }
                 if (BB == 48)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora15();
                     Minute.min48();
                 }
                 if (BB == 49)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora15();
                     Minute.min49();
                 }
                 if (BB == 50)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora15();
                     Minute.min50();
                 }
                 if (BB == 51)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora15();
                     Minute.min51();
                 }
                 if (BB == 52)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora15();
                     Minute.min52();
                 }
                 if (BB == 53)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora15();
                     Minute.min53();
                 }
                 if (BB == 54)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora15();
                     Minute.min54();
                 }
                 if (BB == 55)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora15();
                     Minute.min55();
                 }
                 if (BB == 56)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora15();
                     Minute.min56();
                 }
                 if (BB == 57)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora15();
                     Minute.min57();
                 }
                 if (BB == 58)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora15();
                     Minute.min58();
                 }
                 if (BB == 59)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora15();
                     Minute.min59();
                 }
             }
@@ -5837,361 +5837,361 @@ namespace Clock
                 if (BB == 00)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora16();
                     Minute.min0();
                 }
                 if (BB == 01)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora16();
                     Minute.min1();
                 }
                 if (BB == 02)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora16();
                     Minute.min2();
                 }
                 if (BB == 03)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora16();
                     Minute.min3();
                 }
                 if (BB == 04)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora16();
                     Minute.min4();
                 }
                 if (BB == 05)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora16();
                     Minute.min5();
                 }
                 if (BB == 06)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora16();
                     Minute.min6();
                 }
                 if (BB == 07)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora16();
                     Minute.min7();
                 }
                 if (BB == 08)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora16();
                     Minute.min8();
                 }
                 if (BB == 09)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora16();
                     Minute.min9();
                 }
                 if (BB == 10)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora16();
                     Minute.min10();
                 }
                 if (BB == 11)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora16();
                     Minute.min11();
                 }
                 if (BB == 12)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora16();
                     Minute.min12();
                 }
                 if (BB == 13)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora16();
                     Minute.min13();
                 }
                 if (BB == 14)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora16();
                     Minute.min14();
                 }
                 if (BB == 15)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora16();
                     Minute.min15();
                 }
                 if (BB == 16)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora16();
                     Minute.min16();
                 }
                 if (BB == 17)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora16();
                     Minute.min17();
                 }
                 if (BB == 18)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora16();
                     Minute.min18();
                 }
                 if (BB == 19)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora16();
                     Minute.min19();
                 }
                 if (BB == 20)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora16();
                     Minute.min20();
                 }
                 if (BB == 21)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora16();
                     Minute.min21();
                 }
                 if (BB == 22)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora16();
                     Minute.min22();
                 }
                 if (BB == 23)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora16();
                     Minute.min23();
                 }
                 if (BB == 24)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora16();
                     Minute.min24();
                 }
                 if (BB == 25)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora16();
                     Minute.min25();
                 }
                 if (BB == 26)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora16();
                     Minute.min26();
                 }
                 if (BB == 27)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora16();
                     Minute.min27();
                 }
                 if (BB == 28)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora16();
                     Minute.min28();
                 }
                 if (BB == 29)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora16();
                     Minute.min29();
                 }
                 if (BB == 30)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora16();
                     Minute.min30();
                 }
                 if (BB == 31)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora16();
                     Minute.min31();
                 }
                 if (BB == 32)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora16();
                     Minute.min32();
                 }
                 if (BB == 33)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora16();
                     Minute.min33();
                 }
                 if (BB == 34)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora16();
                     Minute.min34();
                 }
                 if (BB == 35)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora16();
                     Minute.min35();
                 }
                 if (BB == 36)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora16();
                     Minute.min36();
                 }
                 if (BB == 37)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora16();
                     Minute.min37();
                 }
                 if (BB == 38)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora16();
                     Minute.min38();
                 }
                 if (BB == 39)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora16();
                     Minute.min39();
                 }
                 if (BB == 40)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora16();
                     Minute.min40();
                 }
                 if (BB == 41)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora16();
                     Minute.min41();
                 }
                 if (BB == 42)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora16();
                     Minute.min42();
                 }
                 if (BB == 43)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora16();
                     Minute.min43();
                 }
                 if (BB == 44)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora16();
                     Minute.min44();
                 }
                 if (BB == 45)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora16();
                     Minute.min45();
                 }
                 if (BB == 46)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora16();
                     Minute.min46();
                 }
                 if (BB == 47)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora16();
                     Minute.min47();
                 }
                 if (BB == 48)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora16();
                     Minute.min48();
                 }
                 if (BB == 49)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora16();
                     Minute.min49();
                 }
                 if (BB == 50)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora16();
                     Minute.min50();
                 }
                 if (BB == 51)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora16();
                     Minute.min51();
                 }
                 if (BB == 52)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora16();
                     Minute.min52();
                 }
                 if (BB == 53)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora16();
                     Minute.min53();
                 }
                 if (BB == 54)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora16();
                     Minute.min54();
                 }
                 if (BB == 55)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora16();
                     Minute.min55();
                 }
                 if (BB == 56)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora16();
                     Minute.min56();
                 }
                 if (BB == 57)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora16();
                     Minute.min57();
                 }
                 if (BB == 58)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora16();
                     Minute.min58();
                 }
                 if (BB == 59)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora16();
                     Minute.min59();
                 }
             }
@@ -6200,361 +6200,361 @@ namespace Clock
                 if (BB == 00)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora17();
                     Minute.min0();
                 }
                 if (BB == 01)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora17();
                     Minute.min1();
                 }
                 if (BB == 02)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora17();
                     Minute.min2();
                 }
                 if (BB == 03)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora17();
                     Minute.min3();
                 }
                 if (BB == 04)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora17();
                     Minute.min4();
                 }
                 if (BB == 05)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora17();
                     Minute.min5();
                 }
                 if (BB == 06)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora17();
                     Minute.min6();
                 }
                 if (BB == 07)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora17();
                     Minute.min7();
                 }
                 if (BB == 08)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora17();
                     Minute.min8();
                 }
                 if (BB == 09)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora17();
                     Minute.min9();
                 }
                 if (BB == 10)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora17();
                     Minute.min10();
                 }
                 if (BB == 11)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora17();
                     Minute.min11();
                 }
                 if (BB == 12)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora17();
                     Minute.min12();
                 }
                 if (BB == 13)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora17();
                     Minute.min13();
                 }
                 if (BB == 14)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora17();
                     Minute.min14();
                 }
                 if (BB == 15)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora17();
                     Minute.min15();
                 }
                 if (BB == 16)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora17();
                     Minute.min16();
                 }
                 if (BB == 17)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora17();
                     Minute.min17();
                 }
                 if (BB == 18)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora17();
                     Minute.min18();
                 }
                 if (BB == 19)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora17();
                     Minute.min19();
                 }
                 if (BB == 20)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora17();
                     Minute.min20();
                 }
                 if (BB == 21)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora17();
                     Minute.min21();
                 }
                 if (BB == 22)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora17();
                     Minute.min22();
                 }
                 if (BB == 23)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora17();
                     Minute.min23();
                 }
                 if (BB == 24)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora17();
                     Minute.min24();
                 }
                 if (BB == 25)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora17();
                     Minute.min25();
                 }
                 if (BB == 26)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora17();
                     Minute.min26();
                 }
                 if (BB == 27)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora17();
                     Minute.min27();
                 }
                 if (BB == 28)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora17();
                     Minute.min28();
                 }
                 if (BB == 29)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora17();
                     Minute.min29();
                 }
                 if (BB == 30)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora17();
                     Minute.min30();
                 }
                 if (BB == 31)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora17();
                     Minute.min31();
                 }
                 if (BB == 32)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora17();
                     Minute.min32();
                 }
                 if (BB == 33)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora17();
                     Minute.min33();
                 }
                 if (BB == 34)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora17();
                     Minute.min34();
                 }
                 if (BB == 35)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora17();
                     Minute.min35();
                 }
                 if (BB == 36)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora17();
                     Minute.min36();
                 }
                 if (BB == 37)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora17();
                     Minute.min37();
                 }
                 if (BB == 38)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora17();
                     Minute.min38();
                 }
                 if (BB == 39)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora17();
                     Minute.min39();
                 }
                 if (BB == 40)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora17();
                     Minute.min40();
                 }
                 if (BB == 41)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora17();
                     Minute.min41();
                 }
                 if (BB == 42)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora17();
                     Minute.min42();
                 }
                 if (BB == 43)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora17();
                     Minute.min43();
                 }
                 if (BB == 44)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora17();
                     Minute.min44();
                 }
                 if (BB == 45)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora17();
                     Minute.min45();
                 }
                 if (BB == 46)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora17();
                     Minute.min46();
                 }
                 if (BB == 47)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora17();
                     Minute.min47();
                 }
                 if (BB == 48)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora17();
                     Minute.min48();
                 }
                 if (BB == 49)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora17();
                     Minute.min49();
                 }
                 if (BB == 50)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora17();
                     Minute.min50();
                 }
                 if (BB == 51)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora17();
                     Minute.min51();
                 }
                 if (BB == 52)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora17();
                     Minute.min52();
                 }
                 if (BB == 53)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora17();
                     Minute.min53();
                 }
                 if (BB == 54)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora17();
                     Minute.min54();
                 }
                 if (BB == 55)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora17();
                     Minute.min55();
                 }
                 if (BB == 56)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora17();
                     Minute.min56();
                 }
                 if (BB == 57)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora17();
                     Minute.min57();
                 }
                 if (BB == 58)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora17();
                     Minute.min58();
                 }
                 if (BB == 59)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora17();
                     Minute.min59();
                 }
             }
@@ -6563,361 +6563,361 @@ namespace Clock
                 if (BB == 00)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora18();
                     Minute.min0();
                 }
                 if (BB == 01)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora18();
                     Minute.min1();
                 }
                 if (BB == 02)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora18();
                     Minute.min2();
                 }
                 if (BB == 03)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora18();
                     Minute.min3();
                 }
                 if (BB == 04)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora18();
                     Minute.min4();
                 }
                 if (BB == 05)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora18();
                     Minute.min5();
                 }
                 if (BB == 06)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora18();
                     Minute.min6();
                 }
                 if (BB == 07)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora18();
                     Minute.min7();
                 }
                 if (BB == 08)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora18();
                     Minute.min8();
                 }
                 if (BB == 09)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora18();
                     Minute.min9();
                 }
                 if (BB == 10)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora18();
                     Minute.min10();
                 }
                 if (BB == 11)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora18();
                     Minute.min11();
                 }
                 if (BB == 12)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora18();
                     Minute.min12();
                 }
                 if (BB == 13)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora18();
                     Minute.min13();
                 }
                 if (BB == 14)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora18();
                     Minute.min14();
                 }
                 if (BB == 15)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora18();
                     Minute.min15();
                 }
                 if (BB == 16)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora18();
                     Minute.min16();
                 }
                 if (BB == 17)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora18();
                     Minute.min17();
                 }
                 if (BB == 18)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora18();
                     Minute.min18();
                 }
                 if (BB == 19)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora18();
                     Minute.min19();
                 }
                 if (BB == 20)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora18();
                     Minute.min20();
                 }
                 if (BB == 21)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora18();
                     Minute.min21();
                 }
                 if (BB == 22)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora18();
                     Minute.min22();
                 }
                 if (BB == 23)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora18();
                     Minute.min23();
                 }
                 if (BB == 24)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora18();
                     Minute.min24();
                 }
                 if (BB == 25)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora18();
                     Minute.min25();
                 }
                 if (BB == 26)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora18();
                     Minute.min26();
                 }
                 if (BB == 27)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora18();
                     Minute.min27();
                 }
                 if (BB == 28)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora18();
                     Minute.min28();
                 }
                 if (BB == 29)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora18();
                     Minute.min29();
                 }
                 if (BB == 30)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora18();
                     Minute.min30();
                 }
                 if (BB == 31)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora18();
                     Minute.min31();
                 }
                 if (BB == 32)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora18();
                     Minute.min32();
                 }
                 if (BB == 33)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora18();
                     Minute.min33();
                 }
                 if (BB == 34)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora18();
                     Minute.min34();
                 }
                 if (BB == 35)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora18();
                     Minute.min35();
                 }
                 if (BB == 36)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora18();
                     Minute.min36();
                 }
                 if (BB == 37)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora18();
                     Minute.min37();
                 }
                 if (BB == 38)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora18();
                     Minute.min38();
                 }
                 if (BB == 39)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora18();
                     Minute.min39();
                 }
                 if (BB == 40)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora18();
                     Minute.min40();
                 }
                 if (BB == 41)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora18();
                     Minute.min41();
                 }
                 if (BB == 42)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora18();
                     Minute.min42();
                 }
                 if (BB == 43)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora18();
                     Minute.min43();
                 }
                 if (BB == 44)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora18();
                     Minute.min44();
                 }
                 if (BB == 45)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora18();
                     Minute.min45();
                 }
                 if (BB == 46)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora18();
                     Minute.min46();
                 }
                 if (BB == 47)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora18();
                     Minute.min47();
                 }
                 if (BB == 48)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora18();
                     Minute.min48();
                 }
                 if (BB == 49)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora18();
                     Minute.min49();
                 }
                 if (BB == 50)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora18();
                     Minute.min50();
                 }
                 if (BB == 51)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora18();
                     Minute.min51();
                 }
                 if (BB == 52)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora18();
                     Minute.min52();
                 }
                 if (BB == 53)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora18();
                     Minute.min53();
                 }
                 if (BB == 54)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora18();
                     Minute.min54();
                 }
                 if (BB == 55)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora18();
                     Minute.min55();
                 }
                 if (BB == 56)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora18();
                     Minute.min56();
                 }
                 if (BB == 57)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora18();
                     Minute.min57();
                 }
                 if (BB == 58)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora18();
                     Minute.min58();
                 }
                 if (BB == 59)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora18();
                     Minute.min59();
                 }
             }
@@ -6926,361 +6926,361 @@ namespace Clock
                 if (BB == 00)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora19();
                     Minute.min0();
                 }
                 if (BB == 01)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora19();
                     Minute.min1();
                 }
                 if (BB == 02)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora19();
                     Minute.min2();
                 }
                 if (BB == 03)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora19();
                     Minute.min3();
                 }
                 if (BB == 04)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora19();
                     Minute.min4();
                 }
                 if (BB == 05)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora19();
                     Minute.min5();
                 }
                 if (BB == 06)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora19();
                     Minute.min6();
                 }
                 if (BB == 07)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora19();
                     Minute.min7();
                 }
                 if (BB == 08)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora19();
                     Minute.min8();
                 }
                 if (BB == 09)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora19();
                     Minute.min9();
                 }
                 if (BB == 10)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora19();
                     Minute.min10();
                 }
                 if (BB == 11)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora19();
                     Minute.min11();
                 }
                 if (BB == 12)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora19();
                     Minute.min12();
                 }
                 if (BB == 13)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora19();
                     Minute.min13();
                 }
                 if (BB == 14)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora19();
                     Minute.min14();
                 }
                 if (BB == 15)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora19();
                     Minute.min15();
                 }
                 if (BB == 16)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora19();
                     Minute.min16();
                 }
                 if (BB == 17)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora19();
                     Minute.min17();
                 }
                 if (BB == 18)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora19();
                     Minute.min18();
                 }
                 if (BB == 19)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora19();
                     Minute.min19();
                 }
                 if (BB == 20)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora19();
                     Minute.min20();
                 }
                 if (BB == 21)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora19();
                     Minute.min21();
                 }
                 if (BB == 22)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora19();
                     Minute.min22();
                 }
                 if (BB == 23)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora19();
                     Minute.min23();
                 }
                 if (BB == 24)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora19();
                     Minute.min24();
                 }
                 if (BB == 25)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora19();
                     Minute.min25();
                 }
                 if (BB == 26)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora19();
                     Minute.min26();
                 }
                 if (BB == 27)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora19();
                     Minute.min27();
                 }
                 if (BB == 28)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora19();
                     Minute.min28();
                 }
                 if (BB == 29)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora19();
                     Minute.min29();
                 }
                 if (BB == 30)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora19();
                     Minute.min30();
                 }
                 if (BB == 31)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora19();
                     Minute.min31();
                 }
                 if (BB == 32)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora19();
                     Minute.min32();
                 }
                 if (BB == 33)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora19();
                     Minute.min33();
                 }
                 if (BB == 34)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora19();
                     Minute.min34();
                 }
                 if (BB == 35)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora19();
                     Minute.min35();
                 }
                 if (BB == 36)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora19();
                     Minute.min36();
                 }
                 if (BB == 37)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora19();
                     Minute.min37();
                 }
                 if (BB == 38)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora19();
                     Minute.min38();
                 }
                 if (BB == 39)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora19();
                     Minute.min39();
                 }
                 if (BB == 40)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora19();
                     Minute.min40();
                 }
                 if (BB == 41)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora19();
                     Minute.min41();
                 }
                 if (BB == 42)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora19();
                     Minute.min42();
                 }
                 if (BB == 43)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora19();
                     Minute.min43();
                 }
                 if (BB == 44)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora19();
                     Minute.min44();
                 }
                 if (BB == 45)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora19();
                     Minute.min45();
                 }
                 if (BB == 46)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora19();
                     Minute.min46();
                 }
                 if (BB == 47)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora19();
                     Minute.min47();
                 }
                 if (BB == 48)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora19();
                     Minute.min48();
                 }
                 if (BB == 49)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora19();
                     Minute.min49();
                 }
                 if (BB == 50)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora19();
                     Minute.min50();
                 }
                 if (BB == 51)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora19();
                     Minute.min51();
                 }
                 if (BB == 52)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora19();
                     Minute.min52();
                 }
                 if (BB == 53)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora19();
                     Minute.min53();
                 }
                 if (BB == 54)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora19();
                     Minute.min54();
                 }
                 if (BB == 55)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora19();
                     Minute.min55();
                 }
                 if (BB == 56)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora19();
                     Minute.min56();
                 }
                 if (BB == 57)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora19();
                     Minute.min57();
                 }
                 if (BB == 58)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora19();
                     Minute.min58();
                 }
                 if (BB == 59)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora19();
                     Minute.min59();
                 }
             }
@@ -7289,361 +7289,361 @@ namespace Clock
                 if (BB == 00)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora20();
                     Minute.min0();
                 }
                 if (BB == 01)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora20();
                     Minute.min1();
                 }
                 if (BB == 02)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora20();
                     Minute.min2();
                 }
                 if (BB == 03)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora20();
                     Minute.min3();
                 }
                 if (BB == 04)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora20();
                     Minute.min4();
                 }
                 if (BB == 05)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora20();
                     Minute.min5();
                 }
                 if (BB == 06)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora20();
                     Minute.min6();
                 }
                 if (BB == 07)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora20();
                     Minute.min7();
                 }
                 if (BB == 08)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora20();
                     Minute.min8();
                 }
                 if (BB == 09)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora20();
                     Minute.min9();
                 }
                 if (BB == 10)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora20();
                     Minute.min10();
                 }
                 if (BB == 11)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora20();
                     Minute.min11();
                 }
                 if (BB == 12)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora20();
                     Minute.min12();
                 }
                 if (BB == 13)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora20();
                     Minute.min13();
                 }
                 if (BB == 14)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora20();
                     Minute.min14();
                 }
                 if (BB == 15)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora20();
                     Minute.min15();
                 }
                 if (BB == 16)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora20();
                     Minute.min16();
                 }
                 if (BB == 17)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora20();
                     Minute.min17();
                 }
                 if (BB == 18)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora20();
                     Minute.min18();
                 }
                 if (BB == 19)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora20();
                     Minute.min19();
                 }
                 if (BB == 20)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora20();
                     Minute.min20();
                 }
                 if (BB == 21)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora20();
                     Minute.min21();
                 }
                 if (BB == 22)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora20();
                     Minute.min22();
                 }
                 if (BB == 23)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora20();
                     Minute.min23();
                 }
                 if (BB == 24)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora20();
                     Minute.min24();
                 }
                 if (BB == 25)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora20();
                     Minute.min25();
                 }
                 if (BB == 26)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora20();
                     Minute.min26();
                 }
                 if (BB == 27)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora20();
                     Minute.min27();
                 }
                 if (BB == 28)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora20();
                     Minute.min28();
                 }
                 if (BB == 29)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora20();
                     Minute.min29();
                 }
                 if (BB == 30)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora20();
                     Minute.min30();
                 }
                 if (BB == 31)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora20();
                     Minute.min31();
                 }
                 if (BB == 32)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora20();
                     Minute.min32();
                 }
                 if (BB == 33)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora20();
                     Minute.min33();
                 }
                 if (BB == 34)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora20();
                     Minute.min34();
                 }
                 if (BB == 35)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora20();
                     Minute.min35();
                 }
                 if (BB == 36)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora20();
                     Minute.min36();
                 }
                 if (BB == 37)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora20();
                     Minute.min37();
                 }
                 if (BB == 38)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora20();
                     Minute.min38();
                 }
                 if (BB == 39)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora20();
                     Minute.min39();
                 }
                 if (BB == 40)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora20();
                     Minute.min40();
                 }
                 if (BB == 41)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora20();
                     Minute.min41();
                 }
                 if (BB == 42)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora20();
                     Minute.min42();
                 }
                 if (BB == 43)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora20();
                     Minute.min43();
                 }
                 if (BB == 44)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora20();
                     Minute.min44();
                 }
                 if (BB == 45)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora20();
                     Minute.min45();
                 }
                 if (BB == 46)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora20();
                     Minute.min46();
                 }
                 if (BB == 47)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora20();
                     Minute.min47();
                 }
                 if (BB == 48)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora20();
                     Minute.min48();
                 }
                 if (BB == 49)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora20();
                     Minute.min49();
                 }
                 if (BB == 50)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora20();
                     Minute.min50();
                 }
                 if (BB == 51)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora20();
                     Minute.min51();
                 }
                 if (BB == 52)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora20();
                     Minute.min52();
                 }
                 if (BB == 53)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora20();
                     Minute.min53();
                 }
                 if (BB == 54)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora20();
                     Minute.min54();
                 }
                 if (BB == 55)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora20();
                     Minute.min55();
                 }
                 if (BB == 56)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora20();
                     Minute.min56();
                 }
                 if (BB == 57)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora20();
                     Minute.min57();
                 }
                 if (BB == 58)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora20();
                     Minute.min58();
                 }
                 if (BB == 59)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora20();
                     Minute.min59();
                 }
             }
@@ -7652,361 +7652,361 @@ namespace Clock
                 if (BB == 00)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora21();
                     Minute.min0();
                 }
                 if (BB == 01)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora21();
                     Minute.min1();
                 }
                 if (BB == 02)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora21();
                     Minute.min2();
                 }
                 if (BB == 03)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora21();
                     Minute.min3();
                 }
                 if (BB == 04)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora21();
                     Minute.min4();
                 }
                 if (BB == 05)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora21();
                     Minute.min5();
                 }
                 if (BB == 06)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora21();
                     Minute.min6();
                 }
                 if (BB == 07)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora21();
                     Minute.min7();
                 }
                 if (BB == 08)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora21();
                     Minute.min8();
                 }
                 if (BB == 09)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora21();
                     Minute.min9();
                 }
                 if (BB == 10)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora21();
                     Minute.min10();
                 }
                 if (BB == 11)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora21();
                     Minute.min11();
                 }
                 if (BB == 12)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora21();
                     Minute.min12();
                 }
                 if (BB == 13)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora21();
                     Minute.min13();
                 }
                 if (BB == 14)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora21();
                     Minute.min14();
                 }
                 if (BB == 15)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora21();
                     Minute.min15();
                 }
                 if (BB == 16)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora21();
                     Minute.min16();
                 }
                 if (BB == 17)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora21();
                     Minute.min17();
                 }
                 if (BB == 18)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora21();
                     Minute.min18();
                 }
                 if (BB == 19)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora21();
                     Minute.min19();
                 }
                 if (BB == 20)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora21();
                     Minute.min20();
                 }
                 if (BB == 21)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora21();
                     Minute.min21();
                 }
                 if (BB == 22)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora21();
                     Minute.min22();
                 }
                 if (BB == 23)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora21();
                     Minute.min23();
                 }
                 if (BB == 24)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora21();
                     Minute.min24();
                 }
                 if (BB == 25)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora21();
                     Minute.min25();
                 }
                 if (BB == 26)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora21();
                     Minute.min26();
                 }
                 if (BB == 27)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora21();
                     Minute.min27();
                 }
                 if (BB == 28)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora21();
                     Minute.min28();
                 }
                 if (BB == 29)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora21();
                     Minute.min29();
                 }
                 if (BB == 30)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora21();
                     Minute.min30();
                 }
                 if (BB == 31)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora21();
                     Minute.min31();
                 }
                 if (BB == 32)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora21();
                     Minute.min32();
                 }
                 if (BB == 33)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora21();
                     Minute.min33();
                 }
                 if (BB == 34)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora21();
                     Minute.min34();
                 }
                 if (BB == 35)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora21();
                     Minute.min35();
                 }
                 if (BB == 36)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora21();
                     Minute.min36();
                 }
                 if (BB == 37)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora21();
                     Minute.min37();
                 }
                 if (BB == 38)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora21();
                     Minute.min38();
                 }
                 if (BB == 39)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora21();
                     Minute.min39();
                 }
                 if (BB == 40)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora21();
                     Minute.min40();
                 }
                 if (BB == 41)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora21();
                     Minute.min41();
                 }
                 if (BB == 42)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora21();
                     Minute.min42();
                 }
                 if (BB == 43)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora21();
                     Minute.min43();
                 }
                 if (BB == 44)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora21();
                     Minute.min44();
                 }
                 if (BB == 45)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora21();
                     Minute.min45();
                 }
                 if (BB == 46)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora21();
                     Minute.min46();
                 }
                 if (BB == 47)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora21();
                     Minute.min47();
                 }
                 if (BB == 48)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora21();
                     Minute.min48();
                 }
                 if (BB == 49)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora21();
                     Minute.min49();
                 }
                 if (BB == 50)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora21();
                     Minute.min50();
                 }
                 if (BB == 51)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora21();
                     Minute.min51();
                 }
                 if (BB == 52)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora21();
                     Minute.min52();
                 }
                 if (BB == 53)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora21();
                     Minute.min53();
                 }
                 if (BB == 54)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora21();
                     Minute.min54();
                 }
                 if (BB == 55)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora21();
                     Minute.min55();
                 }
                 if (BB == 56)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora21();
                     Minute.min56();
                 }
                 if (BB == 57)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora21();
                     Minute.min57();
                 }
                 if (BB == 58)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora21();
                     Minute.min58();
                 }
                 if (BB == 59)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora21();
                     Minute.min59();
                 }
             }
@@ -8015,361 +8015,361 @@ namespace Clock
                 if (BB == 00)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora22();
                     Minute.min0();
                 }
                 if (BB == 01)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora22();
                     Minute.min1();
                 }
                 if (BB == 02)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora22();
                     Minute.min2();
                 }
                 if (BB == 03)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora22();
                     Minute.min3();
                 }
                 if (BB == 04)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora22();
                     Minute.min4();
                 }
                 if (BB == 05)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora22();
                     Minute.min5();
                 }
                 if (BB == 06)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora22();
                     Minute.min6();
                 }
                 if (BB == 07)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora22();
                     Minute.min7();
                 }
                 if (BB == 08)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora22();
                     Minute.min8();
                 }
                 if (BB == 09)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora22();
                     Minute.min9();
                 }
                 if (BB == 10)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora22();
                     Minute.min10();
                 }
                 if (BB == 11)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora22();
                     Minute.min11();
                 }
                 if (BB == 12)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora22();
                     Minute.min12();
                 }
                 if (BB == 13)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora22();
                     Minute.min13();
                 }
                 if (BB == 14)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora22();
                     Minute.min14();
                 }
                 if (BB == 15)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora22();
                     Minute.min15();
                 }
                 if (BB == 16)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora22();
                     Minute.min16();
                 }
                 if (BB == 17)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora22();
                     Minute.min17();
                 }
                 if (BB == 18)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora22();
                     Minute.min18();
                 }
                 if (BB == 19)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora22();
                     Minute.min19();
                 }
                 if (BB == 20)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora22();
                     Minute.min20();
                 }
                 if (BB == 21)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora22();
                     Minute.min21();
                 }
                 if (BB == 22)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora22();
                     Minute.min22();
                 }
                 if (BB == 23)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora22();
                     Minute.min23();
                 }
                 if (BB == 24)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora22();
                     Minute.min24();
                 }
                 if (BB == 25)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora22();
                     Minute.min25();
                 }
                 if (BB == 26)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora22();
                     Minute.min26();
                 }
                 if (BB == 27)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora22();
                     Minute.min27();
                 }
                 if (BB == 28)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora22();
                     Minute.min28();
                 }
                 if (BB == 29)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora22();
                     Minute.min29();
                 }
                 if (BB == 30)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora22();
                     Minute.min30();
                 }
                 if (BB == 31)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora22();
                     Minute.min31();
                 }
                 if (BB == 32)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora22();
                     Minute.min32();
                 }
                 if (BB == 33)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora22();
                     Minute.min33();
                 }
                 if (BB == 34)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora22();
                     Minute.min34();
                 }
                 if (BB == 35)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora22();
                     Minute.min35();
                 }
                 if (BB == 36)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora22();
                     Minute.min36();
                 }
                 if (BB == 37)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora22();
                     Minute.min37();
                 }
                 if (BB == 38)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora22();
                     Minute.min38();
                 }
                 if (BB == 39)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora22();
                     Minute.min39();
                 }
                 if (BB == 40)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora22();
                     Minute.min40();
                 }
                 if (BB == 41)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora22();
                     Minute.min41();
                 }
                 if (BB == 42)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora22();
                     Minute.min42();
                 }
                 if (BB == 43)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora22();
                     Minute.min43();
                 }
                 if (BB == 44)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora22();
                     Minute.min44();
                 }
                 if (BB == 45)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora22();
                     Minute.min45();
                 }
                 if (BB == 46)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora22();
                     Minute.min46();
                 }
                 if (BB == 47)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora22();
                     Minute.min47();
                 }
                 if (BB == 48)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora22();
                     Minute.min48();
                 }
                 if (BB == 49)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora22();
                     Minute.min49();
                 }
                 if (BB == 50)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora22();
                     Minute.min50();
                 }
                 if (BB == 51)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora22();
                     Minute.min51();
                 }
                 if (BB == 52)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora22();
                     Minute.min52();
                 }
                 if (BB == 53)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora22();
                     Minute.min53();
                 }
                 if (BB == 54)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora22();
                     Minute.min54();
                 }
                 if (BB == 55)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora22();
                     Minute.min55();
                 }
                 if (BB == 56)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora22();
                     Minute.min56();
                 }
                 if (BB == 57)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora22();
                     Minute.min57();
                 }
                 if (BB == 58)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora22();
                     Minute.min58();
                 }
                 if (BB == 59)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora22();
                     Minute.min59();
                 }
             }
@@ -8378,361 +8378,361 @@ namespace Clock
                 if (BB == 00)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora23();
                     Minute.min0();
                 }
                 if (BB == 01)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora23();
                     Minute.min1();
                 }
                 if (BB == 02)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora23();
                     Minute.min2();
                 }
                 if (BB == 03)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora23();
                     Minute.min3();
                 }
                 if (BB == 04)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora23();
                     Minute.min4();
                 }
                 if (BB == 05)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora23();
                     Minute.min5();
                 }
                 if (BB == 06)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora23();
                     Minute.min6();
                 }
                 if (BB == 07)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora23();
                     Minute.min7();
                 }
                 if (BB == 08)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora23();
                     Minute.min8();
                 }
                 if (BB == 09)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora23();
                     Minute.min9();
                 }
                 if (BB == 10)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora23();
                     Minute.min10();
                 }
                 if (BB == 11)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora23();
                     Minute.min11();
                 }
                 if (BB == 12)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora23();
                     Minute.min12();
                 }
                 if (BB == 13)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora23();
                     Minute.min13();
                 }
                 if (BB == 14)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora23();
                     Minute.min14();
                 }
                 if (BB == 15)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora23();
                     Minute.min15();
                 }
                 if (BB == 16)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora23();
                     Minute.min16();
                 }
                 if (BB == 17)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora23();
                     Minute.min17();
                 }
                 if (BB == 18)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora23();
                     Minute.min18();
                 }
                 if (BB == 19)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora23();
                     Minute.min19();
                 }
                 if (BB == 20)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora23();
                     Minute.min20();
                 }
                 if (BB == 21)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora23();
                     Minute.min21();
                 }
                 if (BB == 22)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora23();
                     Minute.min22();
                 }
                 if (BB == 23)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora23();
                     Minute.min23();
                 }
                 if (BB == 24)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora23();
                     Minute.min24();
                 }
                 if (BB == 25)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora23();
                     Minute.min25();
                 }
                 if (BB == 26)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora23();
                     Minute.min26();
                 }
                 if (BB == 27)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora23();
                     Minute.min27();
                 }
                 if (BB == 28)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora23();
                     Minute.min28();
                 }
                 if (BB == 29)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora23();
                     Minute.min29();
                 }
                 if (BB == 30)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora23();
                     Minute.min30();
                 }
                 if (BB == 31)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora23();
                     Minute.min31();
                 }
                 if (BB == 32)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora23();
                     Minute.min32();
                 }
                 if (BB == 33)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora23();
                     Minute.min33();
                 }
                 if (BB == 34)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora23();
                     Minute.min34();
                 }
                 if (BB == 35)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora23();
                     Minute.min35();
                 }
                 if (BB == 36)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora23();
                     Minute.min36();
                 }
                 if (BB == 37)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora23();
                     Minute.min37();
                 }
                 if (BB == 38)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora23();
                     Minute.min38();
                 }
                 if (BB == 39)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora23();
                     Minute.min39();
                 }
                 if (BB == 40)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora23();
                     Minute.min40();
                 }
                 if (BB == 41)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora23();
                     Minute.min41();
                 }
                 if (BB == 42)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora23();
                     Minute.min42();
                 }
                 if (BB == 43)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora23();
                     Minute.min43();
                 }
                 if (BB == 44)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora23();
                     Minute.min44();
                 }
                 if (BB == 45)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora23();
                     Minute.min45();
                 }
                 if (BB == 46)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora23();
                     Minute.min46();
                 }
                 if (BB == 47)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora23();
                     Minute.min47();
                 }
                 if (BB == 48)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora23();
                     Minute.min48();
                 }
                 if (BB == 49)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora23();
                     Minute.min49();
                 }
                 if (BB == 50)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora23();
                     Minute.min50();
                 }
                 if (BB == 51)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora23();
                     Minute.min51();
                 }
                 if (BB == 52)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora23();
                     Minute.min52();
                 }
                 if (BB == 53)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora23();
                     Minute.min53();
                 }
                 if (BB == 54)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora23();
                     Minute.min54();
                 }
                 if (BB == 55)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora23();
                     Minute.min55();
                 }
                 if (BB == 56)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora23();
                     Minute.min56();
                 }
                 if (BB == 57)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora23();
                     Minute.min57();
                 }
                 if (BB == 58)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora23();
                     Minute.min58();
                 }
                 if (BB == 59)
                 {
                     Hour.eshte();
-                    Hour.ora0();
+                    Hour.ora23();
                     Minute.min59();
                 }
                
