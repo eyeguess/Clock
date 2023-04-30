@@ -4,7 +4,7 @@ public class Program
 {
     public static void Main(string[] args)
     {
-        //need to finish operation.cs from 09 onwards
+        
         bool y = true;
         Operation operation = new Operation();
         Console.WriteLine("Ju lutem jepni oren. (00-23)");
@@ -14,12 +14,12 @@ public class Program
         
             while (y)
             {
-                if (operation.AA > -1 && operation.AA <= 24)
+                if (operation.AA > -1 && operation.AA < 24)
                 {
                     Console.WriteLine("Ju lutem jepni minutat. (00-59)");
                     operation.BB = Convert.ToInt32(Console.ReadLine());
 
-                    if (operation.BB > -1 && operation.BB <= 60)
+                    if (operation.BB > -1 && operation.BB < 60)
                     {
                         operation.Dothemath(operation.AA, operation.BB);
                         y = false;
